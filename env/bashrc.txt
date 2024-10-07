@@ -26,6 +26,7 @@ alias mv='mv -i'
 #
 # Sfecific configuration
 #
+## ps1 변수 설정 ##
 export PS1='\[\e[31;1m\][\u@\h\[\e[33;1m\] \w]\$ \[\e[m\]'
 alias ls='ls -h -F -i --color=auto -h'
 alias vi='/usr/bin/vim'
